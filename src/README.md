@@ -9,4 +9,4 @@ Instruments, technologies and libraries that were used here:
 * Python;
 * NumPy;
 * Numba;
-* PyTorch;
+* PyTorch.
